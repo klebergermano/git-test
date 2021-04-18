@@ -1,0 +1,19 @@
+{
+  "name": "git_teste",
+  "version": "1.0.0",
+  "description": "Teste for git and js things",
+  "main": "index.js",
+  "scripts": {
+    "node": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klebergermano/gitteste.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klebergermano/gitteste/issues"
+  },
+  "homepage": "https://github.com/klebergermano/gitteste#readme"
+}
