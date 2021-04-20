@@ -4,7 +4,7 @@
   "description": "Teste for git and js things",
   "main": "index.js",
   "scripts": {
-    "node": "node server/index.js"
+    "start": "nodemon server/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/klebergermano/gitteste/issues"
   },
-  "homepage": "https://github.com/klebergermano/gitteste#readme"
+  "homepage": "https://github.com/klebergermano/gitteste#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7"
+  }
 }
