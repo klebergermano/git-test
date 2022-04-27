@@ -1,2 +1,14 @@
+.vscode
+<<<<<<< HEAD
+<<<<<<< HEAD
+subfolder
+sub_dir_1
+=======
+
+>>>>>>> b1d47b3 (add)
+=======
+_site
+>>>>>>> 256bdae (Bash_script)
 log.txt
 /dir2
+/node_modules
