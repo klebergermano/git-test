@@ -1,2 +1,10 @@
+.vscode
+<<<<<<< HEAD
+subfolder
+sub_dir_1
+=======
+
+>>>>>>> b1d47b3 (add)
 log.txt
 /dir2
+/node_modules
