@@ -1,4 +1,5 @@
 .vscode
+_site
 log.txt
 /dir2
 /node_modules
